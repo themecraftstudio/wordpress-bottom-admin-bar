@@ -1,0 +1,15 @@
+{
+  "name": "themecraft/wordpress-bottom-admin-bar",
+  "description": "TODO",
+  "type": "plugin",
+  "license": "GPL-2.0",
+  "authors": [
+    {
+      "name": "Ettore Del Negro",
+      "email": "ettore@themecraft.studio"
+    }
+  ],
+  "require": {
+    "php": ">=7.1"
+  }
+}
