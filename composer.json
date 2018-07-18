@@ -5,11 +5,11 @@
   "license": "GPL-2.0",
   "authors": [
     {
-      "name": "Ettore Del Negro",
-      "email": "ettore@themecraft.studio"
+      "name": "Themecraft Studio",
+      "email": "info@themecraft.studio"
     }
   ],
   "require": {
-    "php": ">=7.1"
+    "php": ">=7.2"
   }
 }
